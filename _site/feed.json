@@ -1,0 +1,36 @@
+{
+	"title": "Alexander Kucera",
+	"home_page_url": "http://AlexKucera.micro.blog/",
+	"feed_url": "http://AlexKucera.micro.blog/feed.json",
+	"items": [
+		
+		{
+			"id": "http://AlexKucera.micro.blog/2017/04/29/sick-in-bed.html",
+			"content_html": "<p>Sick in bed two days before I leave for FMX. Oh the joy. </p>\n",
+			"date_published": "2017-04-29T12:39:00+00:00",
+			"url": "http://AlexKucera.micro.blog/2017/04/29/sick-in-bed.html"
+		},
+		
+		{
+			"id": "http://AlexKucera.micro.blog/2017/04/26/now-that-microblog.html",
+			"content_html": "<p>Now that micro.blog is live I guess I need to get my Kirby site in order. The hosted version @Manton provides is nice, but ideally I’d like to run this via my own site. Man. There simply isn’t enough day in a day for all my goals.</p>\n",
+			"date_published": "2017-04-26T07:19:00+00:00",
+			"url": "http://AlexKucera.micro.blog/2017/04/26/now-that-microblog.html"
+		},
+		
+		{
+			"id": "http://AlexKucera.micro.blog/2017/04/26/its-here-and.html",
+			"content_html": "<p>It’s here and it’s gorgeous!</p>\n\n<p><img src=\"http://AlexKucera.micro.blog/uploads/2017/157fa345d4.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-04-26T04:05:00+00:00",
+			"url": "http://AlexKucera.micro.blog/2017/04/26/its-here-and.html"
+		},
+		
+		{
+			"id": "http://AlexKucera.micro.blog/2017/04/26/first-microblog-post.html",
+			"content_html": "<p>First micro.blog post. So exciting. I love what @manton built here. Is that how you mention someone? Probably not. Hehe. So much to learn. </p>\n",
+			"date_published": "2017-04-26T02:49:00+00:00",
+			"url": "http://AlexKucera.micro.blog/2017/04/26/first-microblog-post.html"
+		}
+		
+	]
+}
