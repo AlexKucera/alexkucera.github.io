@@ -1,8 +1,16 @@
 {
+	"version": "https://jsonfeed.org/version/1",
 	"title": "Alexander Kucera",
 	"home_page_url": "http://AlexKucera.micro.blog/",
 	"feed_url": "http://AlexKucera.micro.blog/feed.json",
 	"items": [
+		
+		{
+			"id": "http://AlexKucera.micro.blog/2017/05/19/my-betterback-arrived.html",
+			"content_html": "<p>My BetterBack arrived yesterday and it is pretty great I must say.\n![https://ksr-ugc.imgix.net/assets/014/110/219/c1216a9a4327979f80dbbb622149264e_original.jpg]\n<a href=\"https://www.kickstarter.com/projects/1123408990/betterback-therapy-improve-posture-back-pain\">www.kickstarter.com/projects/…</a></p>\n",
+			"date_published": "2017-05-19T13:58:00+00:00",
+			"url": "http://AlexKucera.micro.blog/2017/05/19/my-betterback-arrived.html"
+		},
 		
 		{
 			"id": "http://AlexKucera.micro.blog/2017/04/29/sick-in-bed.html",
