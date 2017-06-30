@@ -4,14 +4,22 @@
     <title>Alexander Kucera</title>
     <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
     <link>http://AlexKucera.micro.blog/</link>
-    <pubDate>Fri, 19 May 2017 13:59:47 +0000</pubDate>
-    <lastBuildDate>Fri, 19 May 2017 13:59:47 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Jun 2017 16:45:17 +0200</pubDate>
+    <lastBuildDate>Fri, 30 Jun 2017 16:45:17 +0200</lastBuildDate>
+    
+      <item>
+        <description>&lt;p&gt;@manton I am having problems signing into my site (http://blog.alexanderkucera.com) with IndyAuth. The iOS app complains about missing “me”, and two others that I already forgotten when I verify via IndyAuth. Any ideas?&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Jun 2017 16:45:00 +0200</pubDate>
+        <link>http://AlexKucera.micro.blog/2017/06/30/manton-i-am.html</link>
+        <guid isPermaLink="true">http://AlexKucera.micro.blog/2017/06/30/manton-i-am.html</guid>
+      </item>
     
       <item>
         <description>&lt;p&gt;My BetterBack arrived yesterday and it is pretty great I must say.
 &lt;a href=&quot;https://www.kickstarter.com/projects/1123408990/betterback-therapy-improve-posture-back-pain&quot;&gt;www.kickstarter.com/projects/…&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 19 May 2017 13:59:00 +0000</pubDate>
+        <pubDate>Fri, 19 May 2017 15:59:00 +0200</pubDate>
         <link>http://AlexKucera.micro.blog/2017/05/19/my-betterback-arrived.html</link>
         <guid isPermaLink="true">http://AlexKucera.micro.blog/2017/05/19/my-betterback-arrived.html</guid>
       </item>
@@ -19,7 +27,7 @@
       <item>
         <description>&lt;p&gt;Sick in bed two days before I leave for FMX. Oh the joy. &lt;/p&gt;
 </description>
-        <pubDate>Sat, 29 Apr 2017 12:39:00 +0000</pubDate>
+        <pubDate>Sat, 29 Apr 2017 14:39:00 +0200</pubDate>
         <link>http://AlexKucera.micro.blog/2017/04/29/sick-in-bed.html</link>
         <guid isPermaLink="true">http://AlexKucera.micro.blog/2017/04/29/sick-in-bed.html</guid>
       </item>
@@ -27,7 +35,7 @@
       <item>
         <description>&lt;p&gt;Now that micro.blog is live I guess I need to get my Kirby site in order. The hosted version @Manton provides is nice, but ideally I’d like to run this via my own site. Man. There simply isn’t enough day in a day for all my goals.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 Apr 2017 07:19:00 +0000</pubDate>
+        <pubDate>Wed, 26 Apr 2017 09:19:00 +0200</pubDate>
         <link>http://AlexKucera.micro.blog/2017/04/26/now-that-microblog.html</link>
         <guid isPermaLink="true">http://AlexKucera.micro.blog/2017/04/26/now-that-microblog.html</guid>
       </item>
@@ -37,7 +45,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://AlexKucera.micro.blog/uploads/2017/157fa345d4.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 Apr 2017 04:05:00 +0000</pubDate>
+        <pubDate>Wed, 26 Apr 2017 06:05:00 +0200</pubDate>
         <link>http://AlexKucera.micro.blog/2017/04/26/its-here-and.html</link>
         <guid isPermaLink="true">http://AlexKucera.micro.blog/2017/04/26/its-here-and.html</guid>
       </item>
@@ -45,7 +53,7 @@
       <item>
         <description>&lt;p&gt;First micro.blog post. So exciting. I love what @manton built here. Is that how you mention someone? Probably not. Hehe. So much to learn. &lt;/p&gt;
 </description>
-        <pubDate>Wed, 26 Apr 2017 02:49:00 +0000</pubDate>
+        <pubDate>Wed, 26 Apr 2017 04:49:00 +0200</pubDate>
         <link>http://AlexKucera.micro.blog/2017/04/26/first-microblog-post.html</link>
         <guid isPermaLink="true">http://AlexKucera.micro.blog/2017/04/26/first-microblog-post.html</guid>
       </item>
