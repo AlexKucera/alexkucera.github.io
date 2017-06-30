@@ -6,13 +6,6 @@
 	"items": [
 		
 		{
-			"id": "http://AlexKucera.micro.blog/2017/06/30/manton-i-am.html",
-			"content_html": "<p>@manton I am having problems signing into my site (http://blog.alexanderkucera.com) with IndyAuth. The iOS app complains about missing “me”, and two others that I already forgotten when I verify via IndyAuth. Any ideas?</p>\n",
-			"date_published": "2017-06-30T16:45:00+02:00",
-			"url": "http://AlexKucera.micro.blog/2017/06/30/manton-i-am.html"
-		},
-		
-		{
 			"id": "http://AlexKucera.micro.blog/2017/05/19/my-betterback-arrived.html",
 			"content_html": "<p>My BetterBack arrived yesterday and it is pretty great I must say.\n<a href=\"https://www.kickstarter.com/projects/1123408990/betterback-therapy-improve-posture-back-pain\">www.kickstarter.com/projects/…</a></p>\n",
 			"date_published": "2017-05-19T15:59:00+02:00",
