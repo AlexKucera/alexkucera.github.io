@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-04-29 14:39 +0200
 guid: http://AlexKucera.micro.blog/2017/04/29/sick-in-bed.html
 ---
