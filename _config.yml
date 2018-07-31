@@ -2,22 +2,7 @@
 #   K i k o   #
 # # # # # # # #
 
-# Basic
-# - name: "[TITLE]"
-
-# - title: "[TITLE]"
-# - description: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
-# - base# - url: "[PATH]" # e.g. /manton or /az/azasdfasdf
-# - url: "http://[HOSTNAME]" # the base hostname & protocol for your site
 # - markdown: kramdown
-# - user# - name: "[USERNAME]"
-
-# Navigation
-nav:
-  - # - name:           "About"
-    href:           "/about/"
-  - # - name:           "RSS"
-    href:           "/feed.xml"
 
 # Sass
 sass:
@@ -43,15 +28,16 @@ tagline: ""
 description: "Follow <a href=\"https://micro.blog/AlexKucera\">@AlexKucera on Micro.blog</a>."
 credits: "Follow <a href=\"https://micro.blog/AlexKucera\">@AlexKucera on Micro.blog</a>."
 baseurl: ""
-url: "http://AlexKucera.micro.blog"
+url: "https://AlexKucera.micro.blog"
 markdown: "kramdown"
 username: "AlexKucera"
+microblog_user: "AlexKucera"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Alexander Kucera"
 name: "Alexander Kucera"
 gravatar_hash: "e6fd216c7e03931033e7ab026e46f00b"
-avatar: "https://www.gravatar.com/avatar/e6fd216c7e03931033e7ab026e46f00b?s=160"
+avatar: "https://micro.blog/AlexKucera/avatar.jpg"
 full_name: "Alexander Kucera"
 bio: ""
 twitter_username: ""
@@ -60,3 +46,9 @@ instagram_username: ""
 paginate: 20
 paginate_path: "/page/:num/"
 timezone: "Poland"
+site_id: "239"
+gems: ["jekyll-paginate"]
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
+itunes_author: "Alexander Kucera"
+podcast: false
