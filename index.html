@@ -1,9 +1,10 @@
 ---
 layout: default
+regenerate: true
 ---
 <header class="masthead">
   <h1 class="masthead-title">
-    <a href="{{ site.baseurl }}/">{{ site.name }}<span>&#39;s microblog</span></a>
+    <a href="{{ site.baseurl }}/">{{ site.name }}</a>
   </h1>
   <nav class="masthead-nav">
 	{% assign sorted_pages = site.pages | sort: "order" %}
@@ -13,17 +14,18 @@ layout: default
 		{% endif %}
 	{% endfor %}
 
-    {% for nav in site.nav %}
-    <a href="{{ nav.href }}">{{ nav.name }}</a>
-    {% endfor %}
+	<a class="page-link" href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
   </nav>
 </header>
 <div class="content list h-feed">
 {% if site.posts.size == 0 %}
   <h2>No post found</h2>
 {% else %}
-{% for post in paginator.posts %}
+{% for post in site.posts limit:25 %}
   <div class="list-item h-entry">
+	{% if post.microblog == false %}
+		<h1 class="home-title">{{ post.title }}</h1>
+	{% endif %}
     <div class="content post e-content">
       {{ post.content }}
     </div>
@@ -34,10 +36,6 @@ layout: default
 {% endfor %}
 {% endif %}
 </div>
-
-{% if paginator.previous_page or paginator.next_page %}
-    {% include pagination.html %}
-{% endif %}
 
 <footer class="site-footer">
 	<p class="text">{{ site.description }}</p>
