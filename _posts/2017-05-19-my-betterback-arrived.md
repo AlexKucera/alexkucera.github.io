@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-05-19 15:59 +0200
+audio: 
+date: 2017-05-19 14:59:10 +0100
 guid: http://AlexKucera.micro.blog/2017/05/19/my-betterback-arrived.html
 ---
 My BetterBack arrived yesterday and it is pretty great I must say.
