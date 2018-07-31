@@ -1,56 +1,64 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Alexander Kucera",
-	"home_page_url": "http://AlexKucera.micro.blog/",
-	"feed_url": "http://AlexKucera.micro.blog/feed.json",
+	"home_page_url": "https://AlexKucera.micro.blog/",
+	"feed_url": "https://AlexKucera.micro.blog/feed.json",
 	"items": [
+		
+		{
+			"id": "http://AlexKucera.micro.blog/2018/07/31/ok-lets-see.html",
+	      	
+			"content_html": "<p>Ok. Let’s see. I’ll be trying out posting to Micro.blog directly again for a while. Usually I post to my Kirby blog, but my workflow for that is just a bit convoluted. It might be nice to have a more immediate workflow for a change.</p>\n",
+			"date_published": "2018-07-31T14:53:52+02:00",
+			"url": "https://AlexKucera.micro.blog/2018/07/31/ok-lets-see.html"
+		},
 		
 		{
 			"id": "http://AlexKucera.micro.blog/2017/09/13/soiphone-x-eh.html",
 	      	
 			"content_html": "<p>So…iPhone X eh? Interesting. 🙂</p>\n",
-			"date_published": "2017-09-13T11:09:00+02:00",
-			"url": "http://AlexKucera.micro.blog/2017/09/13/soiphone-x-eh.html"
+			"date_published": "2017-09-13T11:09:26+02:00",
+			"url": "https://AlexKucera.micro.blog/2017/09/13/soiphone-x-eh.html"
 		},
 		
 		{
 			"id": "http://AlexKucera.micro.blog/2017/05/19/my-betterback-arrived.html",
 	      	
 			"content_html": "<p>My BetterBack arrived yesterday and it is pretty great I must say.\n<a href=\"https://www.kickstarter.com/projects/1123408990/betterback-therapy-improve-posture-back-pain\">www.kickstarter.com/projects/…</a></p>\n",
-			"date_published": "2017-05-19T15:59:00+02:00",
-			"url": "http://AlexKucera.micro.blog/2017/05/19/my-betterback-arrived.html"
+			"date_published": "2017-05-19T15:59:10+02:00",
+			"url": "https://AlexKucera.micro.blog/2017/05/19/my-betterback-arrived.html"
 		},
 		
 		{
 			"id": "http://AlexKucera.micro.blog/2017/04/29/sick-in-bed.html",
 	      	
-			"content_html": "<p>Sick in bed two days before I leave for FMX. Oh the joy. </p>\n",
-			"date_published": "2017-04-29T14:39:00+02:00",
-			"url": "http://AlexKucera.micro.blog/2017/04/29/sick-in-bed.html"
+			"content_html": "<p>Sick in bed two days before I leave for FMX. Oh the joy.</p>\n",
+			"date_published": "2017-04-29T14:39:17+02:00",
+			"url": "https://AlexKucera.micro.blog/2017/04/29/sick-in-bed.html"
 		},
 		
 		{
 			"id": "http://AlexKucera.micro.blog/2017/04/26/now-that-microblog.html",
 	      	
 			"content_html": "<p>Now that micro.blog is live I guess I need to get my Kirby site in order. The hosted version @Manton provides is nice, but ideally I’d like to run this via my own site. Man. There simply isn’t enough day in a day for all my goals.</p>\n",
-			"date_published": "2017-04-26T09:19:00+02:00",
-			"url": "http://AlexKucera.micro.blog/2017/04/26/now-that-microblog.html"
+			"date_published": "2017-04-26T09:19:09+02:00",
+			"url": "https://AlexKucera.micro.blog/2017/04/26/now-that-microblog.html"
 		},
 		
 		{
 			"id": "http://AlexKucera.micro.blog/2017/04/26/its-here-and.html",
 	      	
 			"content_html": "<p>It’s here and it’s gorgeous!</p>\n\n<p><img src=\"http://AlexKucera.micro.blog/uploads/2017/157fa345d4.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-04-26T06:05:00+02:00",
-			"url": "http://AlexKucera.micro.blog/2017/04/26/its-here-and.html"
+			"date_published": "2017-04-26T06:05:11+02:00",
+			"url": "https://AlexKucera.micro.blog/2017/04/26/its-here-and.html"
 		},
 		
 		{
 			"id": "http://AlexKucera.micro.blog/2017/04/26/first-microblog-post.html",
 	      	
-			"content_html": "<p>First micro.blog post. So exciting. I love what @manton built here. Is that how you mention someone? Probably not. Hehe. So much to learn. </p>\n",
-			"date_published": "2017-04-26T04:49:00+02:00",
-			"url": "http://AlexKucera.micro.blog/2017/04/26/first-microblog-post.html"
+			"content_html": "<p>First micro.blog post. So exciting. I love what @manton built here. Is that how you mention someone? Probably not. Hehe. So much to learn.</p>\n",
+			"date_published": "2017-04-26T04:49:05+02:00",
+			"url": "https://AlexKucera.micro.blog/2017/04/26/first-microblog-post.html"
 		}
 		
 	]
