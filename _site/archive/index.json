@@ -1,0 +1,65 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Alexander Kucera",
+	"home_page_url": "https://AlexKucera.micro.blog/",
+	"feed_url": "https://AlexKucera.micro.blog/archive/index.json",
+	"items": [
+		
+		{
+			"id": "http://AlexKucera.micro.blog/2018/07/31/ok-lets-see.html",
+	      	
+			"content_text": "Ok. Let’s see. I’ll be trying out posting to Micro.blog...",
+			"date_published": "2018-07-31T14:53:52+02:00",
+			"url": "https://AlexKucera.micro.blog/2018/07/31/ok-lets-see.html"
+		},
+		
+		{
+			"id": "http://AlexKucera.micro.blog/2017/09/13/soiphone-x-eh.html",
+	      	
+			"content_text": "So…iPhone X eh? Interesting. 🙂\n",
+			"date_published": "2017-09-13T11:09:26+02:00",
+			"url": "https://AlexKucera.micro.blog/2017/09/13/soiphone-x-eh.html"
+		},
+		
+		{
+			"id": "http://AlexKucera.micro.blog/2017/05/19/my-betterback-arrived.html",
+	      	
+			"content_text": "My BetterBack arrived yesterday and it is pretty great I...",
+			"date_published": "2017-05-19T15:59:10+02:00",
+			"url": "https://AlexKucera.micro.blog/2017/05/19/my-betterback-arrived.html"
+		},
+		
+		{
+			"id": "http://AlexKucera.micro.blog/2017/04/29/sick-in-bed.html",
+	      	
+			"content_text": "Sick in bed two days before I leave for FMX....",
+			"date_published": "2017-04-29T14:39:17+02:00",
+			"url": "https://AlexKucera.micro.blog/2017/04/29/sick-in-bed.html"
+		},
+		
+		{
+			"id": "http://AlexKucera.micro.blog/2017/04/26/now-that-microblog.html",
+	      	
+			"content_text": "Now that micro.blog is live I guess I need to...",
+			"date_published": "2017-04-26T09:19:09+02:00",
+			"url": "https://AlexKucera.micro.blog/2017/04/26/now-that-microblog.html"
+		},
+		
+		{
+			"id": "http://AlexKucera.micro.blog/2017/04/26/its-here-and.html",
+	      	
+			"content_text": "It’s here and it’s gorgeous!\n\n\n",
+			"date_published": "2017-04-26T06:05:11+02:00",
+			"url": "https://AlexKucera.micro.blog/2017/04/26/its-here-and.html"
+		},
+		
+		{
+			"id": "http://AlexKucera.micro.blog/2017/04/26/first-microblog-post.html",
+	      	
+			"content_text": "First micro.blog post. So exciting. I love what @manton built...",
+			"date_published": "2017-04-26T04:49:05+02:00",
+			"url": "https://AlexKucera.micro.blog/2017/04/26/first-microblog-post.html"
+		}
+		
+	]
+}
