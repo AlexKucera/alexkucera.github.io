@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Alexander Kucera</title>
+    <description>Follow &lt;a href=&quot;https://micro.blog/AlexKucera&quot;&gt;@AlexKucera on Micro.blog&lt;/a&gt;.</description>
+    <link>https://AlexKucera.micro.blog/</link>
+    <pubDate>Tue, 31 Jul 2018 14:54:50 +0200</pubDate>
+    <lastBuildDate>Tue, 31 Jul 2018 14:54:50 +0200</lastBuildDate>
+	<itunes:image href="https://micro.blog/AlexKucera/podcast.png" />
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Personal Journals"></itunes:category>
+	</itunes:category>
+	<itunes:author>Alexander Kucera</itunes:author>
+	<itunes:explicit>no</itunes:explicit>		
+	<language>en</language>
+    
+		
+    
+		
+    
+		
+    
+		
+    
+		
+    
+		
+    
+		
+    
+  </channel>
+</rss>
